@@ -51,6 +51,8 @@ This is a project that I'm doing in my **free time** to try out the possibilitie
 
 > Same logic when get False
 
+> Special thanks to @heloisars2 who came up with the idea and helped implement it into practice
+
 ## Enemy Desmemberment System in Head/Arms/Legs
 ![Sequence 01](https://github.com/DUDUKorte/UE5-RPD-Project/assets/40546705/df1187d4-e47b-4d5f-8d02-745cc23dd01a)
 * Pre-Selected bones to break when the player hits X times that bone
@@ -60,3 +62,5 @@ This is a project that I'm doing in my **free time** to try out the possibilitie
 > If the Bone's life is 0 or less, it break
 
 > Also, every time the player hit any bone in upperbody, it enables ragdoll for some time only in that bone and its childrens to create a "impact illusion"
+
+> Another special thanks to @heloisars2 who came up with the idea
