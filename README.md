@@ -60,6 +60,7 @@ This is a project that I'm doing in my **free time** to try out the possibilitie
 > Each Bone have a life in a Float number, when the player hit that bone the game pick a random number between 1-3 to damage it
 
 > If the Bone's life is 0 or less, it break
+> I will not make a multiplayer
 
 > Also, every time the player hit any bone in upperbody, it enables ragdoll for some time only in that bone and its childrens to create a "impact illusion"
 
